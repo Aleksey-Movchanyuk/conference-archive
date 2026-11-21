@@ -1,0 +1,77 @@
+Список докладов - Soft Labs 2013 
+ -->
+ Authorize 
+ Authorize / 
+ Simple authorize: 
+ Remember me 
+ Forgot your password? 
+ RU &nbsp;&nbsp; EN -->
+ 5 октября 
+ Oracle Technologies 
+ Dev Labs 2013 
+ You are in the archives of the conference. To go to current conference, click here 
+ Если есть вопросы 
+ ptc.conference@luxoft.com 
+ Подробная информация 
+ О конференции 
+ Общая информация 
+ Организаторы 
+ Новости 
+ Программа 
+ Программа конференции 
+ Докладчики 
+ Участникам 
+ Видеозапись конференции 
+ Информация для участников 
+ Технические требования 
+ Партнерство 
+ Карьера 
+ Контакты 
+ Отзывы 
+ Архив конференций 
+ Тренинги 
+ Участвовать! 
+ DEV Labs 2013 
+ Список докладов 
+ Конференция начнётся в субботу - 5 октября в 1 2 :00 
+ Время начала и окончания докладов &ndash; московское. 
+ Время начала и окончания второго и последующих докладов может варьироваться в зависимости от количества вопросов, которые будут заданы докладчику. 
+ Online 
+ 12:00 - 13:30 
+ &quot;Big Data&quot; &amp; Oracle Technologies 
+ Speaker: 
+ Алексей Мовчанюк 
+ Practic Consulting, Ведущий консультант 
+ Add to favorite 
+ 13:40 - 16:00 
+ Oracle 12c new features 
+ Speaker: 
+ Денис Креп 
+ ODC Deutsche Bank, Архитектор 
+ Add to favorite 
+ 16:10 - 17:40 
+ Встроенные возможности СУБД Oracle по работе с XML 
+ Speaker: 
+ Александр Павловский 
+ Deutsche Bank, Консультант по СУБД Oracle 
+ Add to favorite 
+ 17:50 - 19:20 
+ Когда наступит завтра, или Flashback наоборот: Temporal Validity в Oracle Database 12c 
+ Speaker: 
+ Александр Брейман 
+ Высшая школа экономики, Доцент кафедры управления разработкой программного обеспечения 
+ Add to favorite 
+ 19:30 - 21:00 
+ Oracle Data Pump - качаем данные просто 
+ Speaker: 
+ Валерий Ковальчук 
+ ЗАО «Инком», Старший инструктор-консультант 
+ Add to favorite 
+ Программа конференции 
+ Докладчики 
+ Ваш браузер не поддерживает плавающие фреймы! 
+ Твиты пользователя @Soft_Labs 
+ Расскажите о нас друзьям: 
+ Print version 
+ Site map 
+ &copy; 2014, Soft Labs 2014

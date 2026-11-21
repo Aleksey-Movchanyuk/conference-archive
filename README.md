@@ -7,3 +7,4 @@ Each event gets its own subfolder with a short README explaining what it is, why
 ## Events
 
 - [SOA-Day 2010](./SOA-Day-2010/) — talk on SOA-based real-time data integration, Kyiv, 23 June 2010
+- [DEV Labs 2013](./DevLabs-SoftLabs-2013/) — talk on Big Data & Oracle Technologies, Luxoft "Soft Labs" online conference, 5 October 2013
