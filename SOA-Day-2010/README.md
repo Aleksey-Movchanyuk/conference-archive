@@ -11,6 +11,7 @@ The original event pages on the organizer's site (itdirector.org.ua) are gone fr
 - `organizer_program_page_WAYBACK.html` — full saved HTML of the organizer's own program page, as captured by the Wayback Machine on 2016-04-15 (original URL: `http://itdirector.org.ua/itforum/meropr/SOA-Day/Programa.php`)
 - `press_release_WAYBACK.html` — full saved HTML of an independent press write-up on atrex.ru, captured by the Wayback Machine on 2015-04-19 (original URL: `http://atrex.ru/press/p52894.html`), published the day after the event
 - `organizer_program_page_extracted.txt` / `atrex_press_release_extracted.txt` — plain-text extracts of the above, for quick reference without rendering HTML
+- `screenshot_organizer_program_page.png` / `screenshot_press_release.png` — screenshots of both Wayback Machine pages, with the browser address bar and the Wayback toolbar (original URL + capture date) visible
 
 ## Permanent references (while Wayback Machine is still up)
 - Organizer program page: https://web.archive.org/web/20160415072734/http://itdirector.org.ua/itforum/meropr/SOA-Day/Programa.php
