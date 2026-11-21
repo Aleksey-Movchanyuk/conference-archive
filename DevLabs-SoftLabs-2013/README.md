@@ -11,12 +11,23 @@ The organizer's own site (soft-labs.net) no longer resolves live. This folder pr
 - `speakers_list_WAYBACK.html` — full saved HTML of the organizer's official speaker list, as captured by the Wayback Machine on 2014-08-10 (original URL: `http://www.soft-labs.net/dev-labs2013-oracle/agenda/speakers_list/856`)
 - `agenda_WAYBACK.html` — full saved HTML of the organizer's official conference agenda, captured by the Wayback Machine on 2019-12-06 (original URL: `http://www.soft-labs.net/dev-labs2013-oracle/agenda/`)
 - `speakers_list_extracted.txt` / `agenda_extracted.txt` — plain-text extracts of the above, for quick reference without rendering HTML
+- `screenshot_speakers_list_page.png` / `screenshot_agenda_page.png` — screenshots of both Wayback Machine pages, with the browser address bar visible
 
 ## Permanent references (while Wayback Machine is still up)
 - Official speaker list: https://web.archive.org/web/20140810053422/http://www.soft-labs.net:80/dev-labs2013-oracle/agenda/speakers_list/856
 - Official conference agenda: https://web.archive.org/web/20191206004944/http://www.soft-labs.net/dev-labs2013-oracle/agenda/
 
 Both pages are the organizer's own official records (not a secondary report), independently confirming the same speaker, talk title, and time slot. The conference's own contact address, `ptc.conference@luxoft.com`, confirms this was run by Luxoft.
+
+## Screenshots
+
+**Official speaker list** (Wayback Machine, captured 2014-08-10):
+
+![Speakers list page](./screenshot_speakers_list_page.png)
+
+**Official conference agenda** (Wayback Machine, captured 2019-12-06):
+
+![Agenda page](./screenshot_agenda_page.png)
 
 ## Slides
 The slide deck for this talk survives on SlideShare, uploaded under the same account as this GitHub profile:
