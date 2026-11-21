@@ -18,3 +18,13 @@ The original event pages on the organizer's site (itdirector.org.ua) are gone fr
 - Press coverage: https://web.archive.org/web/20150419025007/http://atrex.ru/press/p52894.html
 
 Both sources independently list the same talk, speaker, and program slot (Block 2, 13:00–14:30), confirming the engagement.
+
+## Screenshots
+
+**Organizer's program page** (Wayback Machine, captured 2016-04-15):
+
+![Organizer program page](./screenshot_organizer_program_page.png)
+
+**Independent press coverage** (Wayback Machine, captured 2015-04-19):
+
+![Press release](./screenshot_press_release.png)
