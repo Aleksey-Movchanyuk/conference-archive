@@ -13,6 +13,7 @@ The original event pages on the organizer's site (itdirector.org.ua) are gone fr
 - `organizer_program_page_extracted.txt` / `atrex_press_release_extracted.txt` — plain-text extracts of the above, for quick reference without rendering HTML
 - `screenshot_organizer_program_page.png` / `screenshot_press_release.png` — screenshots of both Wayback Machine pages, with the browser address bar and the Wayback toolbar (original URL + capture date) visible
 - `screenshot_google_search_confirmation.png` — Google search result for "алексей мовчанюк soa", showing the AI Overview summary and the original search snippet "Докладывает Алексей Мовчанюк, Борлас Украина" (with photo thumbnail) from `old.itdirector.org.ua`, confirming the same event/person independently of the two sources above
+- `photo_presenting_at_SOA-Day.png` — photo of Aleksey actually presenting at the event (see "Photo from the event itself" below)
 
 ## Permanent references (while Wayback Machine is still up)
 - Organizer program page: https://web.archive.org/web/20160415072734/http://itdirector.org.ua/itforum/meropr/SOA-Day/Programa.php
@@ -34,6 +35,8 @@ Both sources independently list the same talk, speaker, and program slot (Block 
 
 ![Google search confirmation](./screenshot_google_search_confirmation.png)
 
-## Pending — photo from the event itself
+## Photo from the event itself
 
-A photo of Aleksey actually presenting (standing next to a screen showing the SOA-Day slide) exists at `old.itdirector.org.ua/itforum/My_slaider.php?PAGE_NAME=detail&SECTION_ID=194&ELEMENT_ID=2149` — confirmed to be part of the same SOA-Day photo gallery (element IDs 2142–2152 in section 194; only element 2151, a different photo from the same gallery, was ever crawled by the Wayback Machine). Element 2149 itself was never archived anywhere and the live page is gone, so the only surviving copy is whatever file Aleksey has locally — to be added here once it's provided as an actual file (not just visible in a chat).
+`photo_presenting_at_SOA-Day.png` — Aleksey presenting, standing next to a screen showing the SOA-Day slide ("Интеграция данных на платформе SOA при построении..."). Originally hosted at `old.itdirector.org.ua/itforum/My_slaider.php?PAGE_NAME=detail&SECTION_ID=194&ELEMENT_ID=2149`, part of the same SOA-Day photo gallery (element IDs 2142–2152 in section 194). That specific element was never crawled by the Wayback Machine (only a neighbouring element, 2151, a different photo from the same gallery, was archived) and the live page is gone — this local copy is the only surviving one.
+
+![Aleksey presenting at SOA-Day 2010](./photo_presenting_at_SOA-Day.png)
